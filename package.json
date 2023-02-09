@@ -1,6 +1,6 @@
 {
   "name": "react-grid-dnd-18",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Updated grid style drag and drop for react",
   "main": "cjs/index.js",
   "module": "esm/index.js",
