@@ -15,22 +15,14 @@
     "dnd",
     "grid"
   ],
-  "scripts": {
-    "test": "jest",
-    "test-watch": "jest -w",
-    "storybook": "start-storybook -p 6006",
-    "build-esm": "rimraf esm && tsc",
-    "build-other": "rimraf umd && rimraf cjs && rollup -c",
-    "build": "yarn run build-esm && yarn run build-other",
-    "prepublishOnly": "yarn run build"
-  },
-  "homepage": "https://github.com/bmcmahen/react-grid-dnd",
+  "scripts": {},
+  "homepage": "https://github.com/superhateyou/react-grid-dnd-18",
   "bugs": {
-    "url": "https://github.com/bmcmahen/react-grid-dnd/issues"
+    "url": "https://github.com/superhateyou/react-grid-dnd-18/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bmcmahen/react-grid-dnd.git"
+    "url": "https://github.com/superhateyou/react-grid-dnd-18.git"
   },
   "peerDependencies": {
     "react": "^18.2.0",
